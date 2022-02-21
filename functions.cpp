@@ -7,3 +7,4 @@ std::string printHello()
 {
 	return "hello  RTF";
 }
+return 0;
